@@ -8,11 +8,18 @@ This is an NLP application that is used to analyze an e-mail and classify the te
 
 ## Introduction
 
-The developement stages of this application can be divided into three main parts.
+The development stages of this application can be streamlined into three key phases:
 
-1. Data Scoping and labelling the data
-2. Fine-tuning the LLM model and building a streamlit application
-3. Creating a evaluation dataset, manually labelling the data and evaluating the model.
+1. Data Preparation and Labeling
+   * Identify and scope the data relevant to the task.
+   * Apply systematic labeling to ensure high-quality annotations, aligning with the application's objectives.
+2. Model Fine-Tuning and Application Development
+   * Make corrections to the wrongly labeled data.
+   * Fine-tune the Large Language Model (LLM) using the labeled dataset for optimal performance.
+   * Build an interactive Streamlit application for seamless user interaction and real-time feedback.
+3. Evaluation and Validation
+   * Construct an evaluation dataset and manually label it for benchmarking.
+   * Assess the model’s performance using this dataset, identify areas for improvement.
 
 ## Further Reading
 
