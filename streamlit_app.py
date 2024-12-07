@@ -6,7 +6,6 @@ import re
 # Get the API key from the environment variable
 api_key = os.getenv("GOOGLE_API_KEY")
 
-
 if not api_key:
     raise ValueError("API key not found. Make sure GOOGLE_API_KEY is set as an environment variable.")
 
