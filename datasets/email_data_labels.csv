@@ -1,0 +1,993 @@
+,email_body,sentiment,formality
+0,I look forward to meeting you and learning about your successful business.,positive,formal
+1,We look forward to seeing you next week!,positive,formal
+2,A quick question before our meeting.,neutral,informal
+3,"After sunning and drinking all day we feasted on a fleisch dinner...that was all we had here to eat, so we grilled bauchfleisch, steaks and bratw?rst...WE ATE SOOO MUCH, but we had DRANK SO MUCH THAT WE NEEDED IT, good greasy stuff.",positive,informal
+4,"Also Tuesday, Kyle and Eric 1/2 hour.",neutral,informal
+5,"Also, I made a change to paragraph 7 to include technical bulletins per Mitch's request which we did not discuss on our call.",neutral,informal
+6,"As i was pondering the meeting last night going home in my car, I realized that I forgot to talk about 2 people, including regulatory and your personal efforts.",negative,informal
+7,"As you become the responsible lawyer, first in Mexico, and maybe in the rest of South America, you may have a different opinion on these issues and we can certainly change our policies at any time.",neutral,informal
+8,"As you know, last year's congress attracted over 200 attendees and provided the ideal opportunity for leading institutions to discuss the key issues and latest developments in pricing, trading and risk management strategies for power and gas.",positive,formal
+9,"As you may know, I am on the Compaq Computer board.",neutral,formal
+10,Ben is trying to set up a conference call with ABB for next Wednesday.,neutral,informal
+11,"Central Time, Wednesday.",neutral,formal
+12,"Chris Calger wants the financing CP removed, and we have a call scheduled at 200 to see if we can get to agreement with Delta.",neutral,informal
+13,Christie is coming at 1:30 to meet the students and talk to me.,neutral,informal
+14,Clickpaper.com will be out and live just before the analyst meetings.,neutral,informal
+15,"Czy masz czas, by spotakc sie na obiad/lunch/kawe?",neutral,informal
+16,Darron is in Hawaii until next week.,neutral,informal
+17,"Date: Tuesday, May 29 Time: 11:00 a.m.",neutral,formal
+18,"Dear Keith, It was a pleasure to meet you and your colleagues in gas / power trading last week.",positive,formal
+19,"Dev., TransCanada PipeLines IN-DEPTH SEMINARS Power Generator Seminar How Calpine Corporation is handling its gas storage and deliverability requirements Storage Pricing Seminar Comprehensive insights for 2002: storage pricing volatility, effects on commodity and options pricing, leveraging opportunities PROJECT DISPLAYS Current projects of North America's leading storage providers: How they're using new technology, handling challenges, seizing opportunities VALUABLE NETWORKING OPPORTUNITIES TEXAS WELCOME - Hosted by Bloomberg Pre-conference get-together, February 5, 7-10 p.m. Special invitation to all conference registrants DELEGATES' RECEPTION - Sponsored by Northwinds Pipeline February 6 at 5:00 p.m. - All conference delegates welcome For more information, please visit our website at www.ziffenergyconferences.com.",positive,formal
+20,"Diane, I will definitely show this to Ken, but he has a Dain Rauscher presentation near the Galleria at 8:00 a.m. that morning, so I know he can't attend.",neutral,informal
+21,Dr. Lay is unable to participate in the conference.,negative,formal
+22,Drive carefully!! See you sometime this weekend,neutral,informal
+23,"Enron Pres: Still Committed to Power Generation Business Wednesday, September 6, 2000 12:49 PM",neutral,formal
+24,"Executive Committee Weekly Meeting Date: Monday, October 9 Time: 11:00 a.m.",neutral,formal
+25,FYI. Can you make a call tomorrow at 100?,neutral,informal
+26,"Friday June 8, 2001 7:30 pm Tickets: $10 general $5 Students/Seniors.",neutral,formal
+27,Get some rest and start studying for Wednesday and Thursday exams.,neutral,informal
+28,Giuseppe did not receive the invitation to the Thursday reception.,negative,formal
+29,"Given our good, long-term relationship with UT, I would recommend that you speak at this conference.",positive,formal
+30,Good night to grill...,positive,informal
+31,Great to have you on board.,positive,informal
+32,Have a good week.,positive,informal
+33,Have a good weekend!,positive,informal
+34,He can join us by phone if needed.,neutral,informal
+35,He is anxious to see it and meet with you after he has had a chance to review it.,neutral,formal
+36,He should be here for the management conference.,neutral,formal
+37,He will be here next Monday at 3:00 p.m.,neutral,formal
+38,He will be in the office tomorrow.,neutral,formal
+39,He will return to the office tomorrow.,neutral,formal
+40,He would like to discuss small business development and Center for Houston's Future with him.,neutral,formal
+41,Here are a few questions I would like to submit before your floor meeting on the 32nd floor Wednesday.,neutral,formal
+42,Here's the slide presentation from yesterday's meeting with the NE Power Team.,neutral,informal
+43,"Holly, I already mailed the documents out to meet the Fedex deadline.",neutral,informal
+44,Hope to see you at the Houstonian tomorrow.,positive,informal
+45,Hope you had a nice weekend.,positive,informal
+46,Hope you have a good day and have a happy Thanksgiving tomorrow.,positive,informal
+47,Hope you have high water and not hell next weekend.,neutral,informal
+48,Hope you've had a great weekend.,positive,informal
+49,"However, I am unable to attend any of the other events due to my busy work schedule.",negative,formal
+50,"However, I don't expect any big issues, since it is so close to the original form.",neutral,informal
+51,"However, there's always next week.",neutral,informal
+52,I can attend.,positive,formal
+53,I cannot attend.,negative,formal
+54,I cannot play on Thursday but thanks for letting me know.,neutral,informal
+55,I faxed you the schedule.,neutral,informal
+56,I have a staff meeting and will be unable to join.,negative,formal
+57,I have to hurry and send in my money for the event.,neutral,informal
+58,I know that you'll give me hell for this but I'm out of town for my Sister-in-Law's wedding that weekend.,negative,informal
+59,"I left a message on Thursday evening for Rosemarie, but was out Friday, so was too busy to follow up today, but having said all that, Ken Lay wanted me to let you know that he would like to have the TFA board meeting at the Enron building.",neutral,informal
+60,I really appreciate your putting me up for the weekend.,positive,informal
+61,I shall attend.,positive,formal
+62,I shall call Risk on Thursday.,neutral,formal
+63,I shall coordinate the meeting on May the 4th with her.,neutral,formal
+64,I shall probably ask Tanya to attend.,neutral,formal
+65,I shall read the articles on weekend.,neutral,formal
+66,I will have to give him a call tomorrow to wish him happy birthday.,positive,informal
+67,I would like to attend.,positive,formal
+68,I'll at least leave a message for him this weekend.,neutral,informal
+69,I'll discuss with Carlos.,neutral,informal
+70,I'll have to check with Kathleen on the details of the documentation for the various development companies.,neutral,informal
+71,I'll have to go get one this weekend.,neutral,informal
+72,"If no space is available, they are to go in at noon.",neutral,formal
+73,"If so, Mike Miller is available to sign it.",neutral,informal
+74,"If you are having trouble viewing the above web address, visit http://www.sendomatic.com/servlets/l?u=tori.kuykendall@enron.com and create an account to view the events you have received.",neutral,formal
+75,"In that event the MinDQ would be 15,000 and Customer would purchase 15,000 from Company at the price in 1) and Company would purchase 3,000 from Customer at the price in 3).",neutral,formal
+76,Is Titan Land Development the Owner?,neutral,informal
+77,Is he availabe tomorrow?,neutral,informal
+78,It does not meet the financial test on its own.,negative,formal
+79,It has to be the following week.,neutral,informal
+80,It seems we may be scheduling a meeting with VEPCO to discuss the PPA.,neutral,formal
+81,Janice has also been revising her forms to deal with some EFP issues.,neutral,informal
+82,Ken Lay will not be able to attend.,negative,formal
+83,Ken Lay will not be able to join this as he is on a cruise vacation.,neutral,informal
+84,"Ken Lay would only be available on December 4, 2000 as we have an Enron Board dinner on Monday, December 11.",neutral,formal
+85,"Lead and become hands-on involved in the financial analysis, preparation of proposal documents, responses to Requests For Information from the Federal clients, term sheets and negotiation of business terms and definitive agreements with the customer.",neutral,formal
+86,Let me bring it back tomorrow.,neutral,informal
+87,Let me review my calendar in the beginning of the next year and I shall E-mail you with a suggested date.,neutral,formal
+88,Looking forward to the long weekend to get some much needed rest.,positive,informal
+89,"Martin, Bruce's trader-made fun of his haircut last week - woody woodpecker.",neutral,informal
+90,Maybe I can leave on Saturday.,neutral,informal
+91,Maybe it is on the development phone list.,neutral,informal
+92,Maybe she can be a back up for next Thursday.,neutral,informal
+93,Mike asked me to follow up with you to pass along his schedule for his visit to OU in April.,neutral,informal
+94,"Mr. Kenneth L. Lay, Chairman and CEO of Enron Corp. will not be able to attend the November 16 - 17, 2000 6th Olympiad of the Mind.",negative,formal
+95,"Must possess transactional savvy and a successful track record of building strong relationships and leading within all stages of the deal development process, including needs analysis, financial and technical due diligence, proposal development, customer interface and closing process.",positive,formal
+96,My suspicion is that the EES discussions are not ultimately going to yield fruit.,negative,formal
+97,No changes in the schedule.,neutral,formal
+98,No new deals for central desk since bid week.,neutral,informal
+99,Off to Oslo tomorrow.,neutral,informal
+100,"On 11/1, I am thinking about having you meet with another faculty, I and a Ph.D student from 10am to 11am.",neutral,informal
+101,Our friends at UT are ready to make the reservations and send out invitations to this conference,positive,informal
+102,Overnight Accom.: N/A,neutral,informal
+103,"Ozzie had to leave town, and he wanted to participate in the first meeting.",neutral,informal
+104,Per my meeting today with Credit:,neutral,formal
+105,"Planning a trip to Tulsa this Friday, to visit with Oneok.",neutral,informal
+106,Q: Will sit-ups help prevent me from getting a little soft around the middle?,neutral,informal
+107,"Re the other 2 meetings, he has a conflict also - an outside board.",neutral,informal
+108,Re: sample master agreements...we recently had a group meeting where we were discouraged to send out sample masters.,negative,informal
+109,Remind them that the list was changing as late as noon Friday.,neutral,informal
+110,"Risk 2001 USA - Boston, 12-13 June 2001 Risk magazine's 7th annual US derivatives and risk management congress For a full program and the latest information visit: www.risk-conferences.com/risk2001usa",neutral,formal
+111,SOCO did not want to pre-schedule anything for Wednesday.,negative,informal
+112,Shawn Cumberland 20 has joined this group to lead and expand the origination opportunities in 20 this business.,neutral,informal
+113,"Shortly after that discussion, I retired from McKinsey on very friendly terms to form my own firm.",neutral,formal
+114,"Sorry I didn't respond yesterday, I didn't get out of here until 10 last night.",negative,informal
+115,Sorry to hear about this weekend.,negative,informal
+116,Stan Horton is currently planning to attend this event.,neutral,formal
+117,Still on conference call.,neutral,informal
+118,"Suzanne, you'll find the document attached to an email I received from Fred on July 11, entitled Kendall New Development LLC.",neutral,informal
+119,Thank you so much for the presentation yesterday concerning accounting/financing issues in power development projects.,positive,formal
+120,"Thanks Marilou, but Ken Lay cannot attend.",neutral,informal
+121,Thanks for dinner.,positive,informal
+122,That way we can discuss it with Heather and make good use of our time.,positive,informal
+123,The gas group would like to roll out some new products and new locations for existing products in the next few weeks.,positive,informal
+124,"The kit will be mailed during the first week of December that will include: conference call information, hotel & travel details, instructions for submitting final papers, complementary registration information, etc).",neutral,formal
+125,The meeting shouldn't last more than 45 minutes.,neutral,informal
+126,"Therefore, i have not removed that line from the address, At such time as the Purchase Order Number is available, please send a revised address notice to the company containing such number.",neutral,formal
+127,These are FYI at this time; further discussions to follow.,neutral,informal
+128,They will come through as an amendment on tonight's list.,neutral,informal
+129,"Tuesday, January 15, 2001 10:00 a.m.",neutral,formal
+130,Unfortunately Debbie and I will not be able to attend due to previous committments.,negative,formal
+131,"Unfortunately, Ken Lay will not be able to attend the meeting of the Asia Society Annual Board Meeting in October 2000.",negative,formal
+132,Vacation week of July 31- August 4. Jury Duty on August 14.,neutral,informal
+133,We are going to call him at 9:00 a.m tomorrow.,neutral,informal
+134,"We are in bid week right now, so I have to work late and can not take vacation, so I am catching a 10 p.m. flight out tomorrow and get to auburn about 2 a.m.",neutral,informal
+135,We discuss the major factors underlying the exceptionally high volatility of electricity prices.,neutral,formal
+136,We had a great time and got a chance to meet Tom.,positive,informal
+137,We had to cancel Lucinda's baby shower the night before it because the baby was early.,negative,informal
+138,"We have had to lock into the rooms last week, so I do not know if we will be able to help her get a room unless they still have some available when she makes a decision.",negative,informal
+139,"We won't get the letter for about a week to 2 weeks, but I wanted to let you know.",neutral,informal
+140,Weddings almost every weekend for months.,neutral,informal
+141,Wednesday at Rainbow lodge.,neutral,informal
+142,Westinghouse warranty issues.,negative,informal
+143,"With respect to the Commissoners, I think it makes sense to go back through Ellen and ask if she could set up meetings with a few commissioners ater the staff briefing.",neutral,informal
+144,Yes - Steve is in Japan until Thursday.,neutral,informal
+145,"Yes, I did know about the conference.",neutral,formal
+146,"Yes, Phillippe left to join a firm in New York -- I don't know who.",neutral,informal
+147,You get a gold star for the week!,positive,informal
+148,"A couple of the entities have shown definitive interest in hiring the group, but our employment at Enron and employment contracts have created significant issues.",negative,formal
+149,A meeting is a good idea.,positive,formal
+150,"A note on the front door, ""the Body Shop would be shutting down at 7:30 p.m. Thursday evening"".",neutral,informal
+151,A substantial advertising discount is being made available to the corporation that sponsors this documentary.,neutral,formal
+152,ALT bought 150 mw's on a preschedule for Tuesday.,neutral,informal
+153,"After all the above, I just have to say...we really do appreciate your help resolving all these issues...",positive,informal
+154,"After such 10 day period, the parties shall be obligated to resume performance as if the event of force majeure had been remedied, and if such party does not resume performance, such nonperformance shall be deemed a Triggering Event allowing the other party to terminate pursuant to Section 17.1.""",neutral,formal
+155,"After the session, I had a discussion with you.",neutral,formal
+156,"After you set your curves(do not hit finished file), go to the GD Pmgr tab and change the date in the left hand corner to two business days out(Friday set for Tuesday).",neutral,informal
+157,All of the others are charging 3% fees fo r matching buyers and sellers in a bulletin board or auction type of transactions.,neutral,informal
+158,Almost two weeks ago he said he wanted a contract that allowed him to call for a letter of credit if one were needed in the future and that would suffice.,neutral,informal
+159,"Also John ( Woody) Wodraska, managing director of Azurix is interested in attending.",positive,informal
+160,"Also the hiring of Lars Elmlund as a weather originator, without any discussion, also illustrates the lack of 20 communication or desire to work together.",negative,informal
+161,"Also, Thursday is my mom's birthday, so I need to remember to shop for her at lunch tomorrow.",positive,informal
+162,"Also, a bit of background: Greenspan is always invited to the reception the night before, but they don't want to offer him a speaking spot because he won't speak without the press present.",neutral,informal
+163,"Also, as I mentioned, I am very impressed with your background and accomplishments, but I would like to have you meet a couple of other people in my group before making a final offer.",positive,formal
+164,"Also, this Board meeting will be my last as Chairman.",neutral,formal
+165,"Also, we had a discussion yesterday with GE on the form of the assignment/assumption agreement, so there shouldn't be anything required of you from that standpoint.",neutral,informal
+166,"An example of work that we think has great relevance is a by-invitation only meeting of about 30 experts in Executive Education--as practiced by corporations, by universitites and professional service firms--that we are convening near Washington D.C in November.",positive,formal
+167,Any update from your last email a couple of weeks ago?,neutral,informal
+168,Anytime Saturday is fine...,positive,informal
+169,"As I mentioned, there were in your talk several issues in which I am interested in.",positive,formal
+170,"As we discussed during our dinner, I think the two biggest sources of benefits from re-structuring will come from getting the demand-side involved in the market and from more efficient risk management.",positive,formal
+171,As we discussed here are the bulletts that summarize what we heard from our consultants.,neutral,informal
+172,"As we discussed, Cadwalader will issue an enforceability opinion with respect to the Enron Corp. guaranty, so we need to provide them with an opinion with respect to Enron Corp. general corporate matters.",neutral,formal
+173,"As we discussed, I think Koenig is damaged goods on the Street right now.",negative,informal
+174,"As we discussed, JPMorgan would like to hear your views on the above issues.",neutral,formal
+175,"As we discussed, the major concerns that I have concerning the Energy Marketing Services Agreement form that Kaiser provided relates to the duties of the Marketer thereunder.",neutral,formal
+176,"As you know, the DHD, on whose board I sit, does great things for the old part of downtown and many of the facades are a product of the DHD's grants.",positive,informal
+177,At the end of the main conference agenda is an outline of the three seminars.,neutral,formal
+178,"Based on the same platform as the Lexus RX 300, which itself is based on modified Toyota Camry mechanicals, Highlander is longer, taller and wider where the wheels meet the pavement than the Lexus.",neutral,formal
+179,Ben and I discussed the fact that the Coral turbines will be moved into TurboPark.,neutral,informal
+180,Bob Bruce has set up a meeting with Ken Raceler to go over the changes that went into effect 12/21 of last year.,neutral,formal
+181,Bob Shults called this meeting to see what the status was for the different product groups' confirmation and GTC forms.,neutral,informal
+182,"But hurry, these great airfares and room rates are available for purchase for 8 days only.",positive,informal
+183,By afternoon time TLR's prevented any power from going into Florida.,negative,informal
+184,"By way of this e-mail, I'll check with Joe's office to see what time it's scheduled.",neutral,informal
+185,CPL was the only reasonable offer at $60. TLR's prevented any new schedules from being started until he 23.,neutral,informal
+186,"Carolyn Green, Vice President - Government Affairs, has advised us of her 20 resignation from Enron Corp. effective Friday =01) August 4, 2000.",neutral,formal
+187,Closer to the event we will be sending you some of the issues that we plan to raise for discussion.,neutral,formal
+188,"Current field trials in operation or scheduled for 2001 include 250 kW DFC power plants at the University of Bielefeld and the Rhone Klinikum Hospital in Germany, at the headquarters of the Los Angeles Department of 20 Water and Power, a 250 kW system in Japan for Marubeni and a 250 kW unit slated for the spring of 2001 at Mercedes-Benz U.S. International in Tuscaloosa, Alabama.",neutral,formal
+189,Dave Delainey is on board regarding Grant.,neutral,informal
+190,Dave predicted it would be tomorrow am.,neutral,informal
+191,"Did anything get set up? I'm booked at 200, but otherwise available.",neutral,informal
+192,Dina's returns are leaving our offices today by courier so you should have them tomorrow.,neutral,informal
+193,Each Unit shall meet Performance Standards as 20 described in this Article and as set forth in the following table below in 20 order to achieve Acceptance: 092MW Power Plants=092.4MW,neutral,formal
+194,"Each year for the past 5 years, there has been one big event that has seemingly changed the w ay we do or think about things.",neutral,informal
+195,"Early next week is better than later, and Thursday and Friday are huge problem days for me.",positive,informal
+196,Either today or tomorrow you will receive an email stating there is a new Kudlow Commentary posted.,neutral,informal
+197,Enron has funded more charity events and backed more functions and elections than most.,positive,informal
+198,"Enron owns two GE 7EA turbines, which may be sold in a structure similiar to the CA Development structure.",neutral,formal
+199,"Enron/Azurix City Officials DETAILS OF TONIGHT'S RECEPTION: Monday, July 31st from 6-7 pm in the 50th floor lobby area.",neutral,formal
+200,Everyone that makes a contribution by COB Friday will be eligible for the Governmental Affairs raffle for BIG PRIZES!!,positive,informal
+201,"FERC's proposals Wednesday are the result of a two-month investigation of California's wholesale electricity market, where prices this summer were three times what they were a year earlier.",neutral,formal
+202,FPL and FPC will on the bid for hourly power on Monday.,neutral,informal
+203,"FYI, I expect to be on vacation that week.",neutral,informal
+204,"FYI, I will be in all this week (Monday, Tuesday, and Wednesday).",neutral,informal
+205,"FYI, I will be in town this weekend(Haleyville).",neutral,informal
+206,Family members are invited and we order a BBQ lunch following the game.,positive,informal
+207,"First of all, Hanukkah was three weeks ago.",neutral,informal
+208,"First, after our discussions yesterday, we couldn't figure out a way they could change the approval status within Credit from approved with a master to a ""B"" approved GTC with credit.",neutral,informal
+209,"Follow up to previous message: I would not have ""managing for the slow down"" on the agenda.",neutral,informal
+210,"For some reason, the Delaware bankruptcy docket is one of the few federal dockets that are not available on the PACER system.",negative,formal
+211,"For the purpose of disclosure pursuant to the Interest Act (Canada), the yearly rate of interest to which any rate of interest payable under this Agreement that is calculated on any basis other than a full calendar year is equivalent may be determined by multiplying such rate by a fraction the numerator of which is the actual number of days in the calendar year in which such yearly rate of interest is to be ascertained and the denominator of which is the number of days comprising such other basis.",neutral,formal
+212,Friday would be beter.,positive,informal
+213,Gary and George are tomorrow morning.,neutral,informal
+214,"Given that almost everybody will be out that week, we probably should move the interview to the beginning of January, even if it means higher costs.",neutral,formal
+215,Golf is scheduled for 2pm Saturday.,neutral,informal
+216,He has never attended one.,neutral,formal
+217,He recently spoke at one of your conferences and this conference is more closely related to Mr. Wasaff's area of responsibility.,neutral,formal
+218,"He said CT will not revoke the consent for about 5-6 more weeks, so we've got some time to resolve this.",neutral,informal
+219,"He still hasn't got the liquids ones written, he says we'll have those by Monday.",neutral,informal
+220,He will be incapable of discussing anything other than how he feels.,negative,formal
+221,Heather Kroll will be meeting with us.,neutral,formal
+222,"Help, Time Warner is my cable service provider, however, when I attempted to open the ordering information, I am told that a discount for TimeWarner cable modern service is not available in my area.",negative,informal
+223,"Here are this week's E-Savers for travel departing Saturday, January 5 and returning Sunday, January 6; Monday, January 7; or Tuesday, January 8.",neutral,formal
+224,Here is the list of the hour ahead scheduled flows:,neutral,formal
+225,Here's a draft of an MOU for the sale of the LMs and ABB equipment to ESA.,neutral,formal
+226,Here's the thing I'm doing on Thursday.,neutral,informal
+227,"Herman says he has a lot of accounting issues to go over, and I thought it would be best if we all heard the same thing at the same time, plus, how the heck is this puppy going to get financed?",negative,informal
+228,"Hey, I am meeting them in Atlanta and the Jocks adn Jills sports bar in CNN Center before the game.",neutral,informal
+229,Hope you had fun on your three dates this weekend!!! (you slut!),positive,informal
+230,Hopefully we will not be heading to alabama for the weekend.,neutral,informal
+231,"How about Friday @ 10am? Sorry, but we have a situation I must get involved with and change a direction.",neutral,informal
+232,How is the week going?,neutral,informal
+233,"However, there are lunch possibilities...",neutral,informal
+234,Hub Agency Agreement - Gregg recently met with Peoples to discuss some of the outstanding commercial issues relating to the Hub Agency Agreement.,neutral,formal
+235,"Humberto (can't remember how to spell his last name) from Global Finance/ENA may be available, and he has participated in similar discussions on two other projects.",neutral,informal
+236,I 20 asked them to go through and discuss their eBusiness plan and it was quite 20 thorough.,neutral,informal
+237,I already have lunch with Steve.,neutral,informal
+238,"I also have a 1015 meeting with Lisa Bills, her office.",neutral,informal
+239,I also want to make sure that Development and Legal are on the same page.,neutral,informal
+240,I am STILL on my 100 conference call.,neutral,informal
+241,I am a dedicated Buddhist so I am not able to join the Elite and act on this.,negative,formal
+242,I am also working on the human resource issues you mentioned.,neutral,formal
+243,I am available for practice.,neutral,formal
+244,I am available.,positive,formal
+245,"I am currently creating a list of all the agreements I have or have heard of, so I hope to have something when you arrive tomorrow to review.",neutral,formal
+246,"I am forwarding a copy of the spreadsheet to my home address so I can work on it tonight, if necessary.",neutral,formal
+247,I am going back to Europe on Sunday and shall be gone for a week.,neutral,formal
+248,I am going to discuss it at the staff meeting.,neutral,formal
+249,"I am going to meet with Tom at 3:30 (after our ice cream social at 3:00) to go over my latest list of questions to the 2nd credit list, so how's about discussing any other financial issues we might have then...",neutral,informal
+250,I am going to run w/holly at 7:00 on saturday and then meet her for breakfast at 8 at the IHOP.,neutral,informal
+251,"I am going to spend one week in Australia and I have just realized that I have to leave on Friday, July the 14th, at night, to arrive in Sydney on Sunday morning.",neutral,informal
+252,I am hoping that customer will make a decision by Thursday.,positive,formal
+253,"I am hoping to have all responses in by tomorrow morning and then, make a decision.",neutral,informal
+254,I am meeting monthly with each person in my group to go over their training plans and get feedback on things they would like assistance with.,neutral,formal
+255,I am meeting with Ben tomorrow to discuss NWestern.,neutral,informal
+256,I am meeting with the exterminator tomorrow a.m.,negative,informal
+257,I am not available on Thursday morning.,negative,formal
+258,"I am paying Cheli to clean the house on Tuesday, Nov. 6th and her number is 713-465-3102 (cell 281-610-6891).",neutral,informal
+259,I am producing the above conference and have been speaking with both Ron Bain from Anadarko Petroleum and Soussan Faiz from Texaco who recommended that I contact you.,neutral,formal
+260,"I am scheduled to be in NYC and Danbury, Connecticut as of tomorrow afternoon, through the remainder of the week.",neutral,formal
+261,"I am working with Dennis Vegas and Margaret Allen in the public affairs group on this event, and will keep them informed of any developments.",neutral,formal
+262,I and anothe alum have already discussed it with HR.,neutral,informal
+263,I approved Powercor to trade before I left last night.,neutral,informal
+264,"I ate all vegetables for lunch, but then I had a third cookie.",neutral,informal
+265,I attended the session on energy you chaired during that OECD Forum.,neutral,formal
+266,I believe that there is only one other active coal trading system (Dynegy direct) that simply isn't 20 posting prices as a bulletin board and waiting for a response with telephon e follow-up.,neutral,informal
+267,I believe that we do need 100% full time dedication from each and any employe e that is dedicated to the weather business including in the overall development and execution of our global strategy and positions.,neutral,formal
+268,I believe that we do need 100% full time dedication from each and any employee that is dedicated to the weather business including in the overall development and execution of or global strategy and positions.,neutral,formal
+269,I believe they cover the activities related to the development of the various site.,neutral,formal
+270,I bet everyone there heard about all his physical issues.,neutral,informal
+271,"I bought presents for this and the Houstonian party, which is next Wednesday.",positive,informal
+272,I called Christian Yoder for a download of his conversation with the City Attorney last Friday but I have yet to hear from Christian.,negative,informal
+273,I called in for the Finance meeting.,neutral,formal
+274,"I can't promise that I incorporated everything we discussed, but I figured I needed to get it to you now.",neutral,informal
+275,I changed our SF appointment to 900 on Friday.,neutral,informal
+276,I checked with Skilling's office and there is nothing scheduled.,neutral,informal
+277,"I cleared not going to Atlanta with Elizabeth, so I should be able to take Michael to Palacios as soon as Monday.",neutral,informal
+278,"I did just call the Pro Shop one more time and spoke with a young lady by the name of Ashley, and she confirms that you guys are slated to tee off on Sunday at 8:15AM on the Old Course off #1.",neutral,informal
+279,I do not believe the cost has been included in the payment schedule.,negative,formal
+280,"I do, however, need someone to follow-up with him, even if it is a polite discussion that we don't have any interest.",neutral,formal
+281,I don't 20 want to discuss them right now but we are close to releasing them and I thi nk they will raise some eyebrows.,neutral,informal
+282,"I don't know where the satellite machine is located, but will follow up on Monday.",neutral,informal
+283,"I don't want to clutter your E-mail box because I know you have a life and don't want to read mail all day long, so I will send you inspirational and encouraging stories and poems 2 to 3 times a week.",positive,informal
+284,I expect to have it today or tomorrow morning at the latest.,neutral,formal
+285,I forgot about Maureen's article being available.,neutral,informal
+286,I gave Shari my whole file on Canadian cash collateral issues to look at.,neutral,informal
+287,"I get in too late tonight, but maybe dinner or drinks on Thurs?",neutral,informal
+288,I got back from vacation late Friday.,neutral,informal
+289,"I got lots done Saturday, but I can't remember what!",neutral,informal
+290,I got this from mike late last week.,neutral,informal
+291,I guess you know that Tammy had her baby on Friday - 5lbs.,neutral,informal
+292,I had the wrong week!,negative,informal
+293,"I have a 900 conference call on another matter; otherwise, I'm open.",neutral,informal
+294,I have a call with Wilson and David scheduled for Thursday am.,neutral,informal
+295,"I have a meeting this afternoon from 230 until 500 or so, so I'm trying to get done before then.",neutral,informal
+296,"I have a personal errand to run (nothing bad) Thursday am, so I won't be in until around lunchtime.",neutral,informal
+297,I have a speaking engagement on April 6 in Florida (a conference organized by Florida Power and Light).,neutral,formal
+298,I have already applied there online last week but I am afraid that it may have gone into that great HR black hole.,negative,informal
+299,"I have another big project that ends this coming Wednesday, Thursday I leave for Germany for vacation for two weeks, and I hope when I get back to devote my somewhat full time to this project finally.",positive,informal
+300,I have been an Enron stockholder for several years and I am very disappoin ted with the events of the last two weeks.,neutral,informal
+301,I have had a difficult few weeks with some people in your group and took some of my frustration with them out on you.,negative,informal
+302,I have jury duty on Wednesday.,neutral,informal
+303,I have reattached an up-to-date version of the agenda.,neutral,formal
+304,"I have reserved EB38C1 for the time period 8:30 - 10:30 for Tuesday February 13, 2001.",neutral,formal
+305,I have reserved March the 2nd for the meeting.,neutral,formal
+306,"I have sold my 1 ,800 shares of Enron Corp. because I no longer have faith in the board to be a good watchdog for the best interests of the shareholders.",negative,formal
+307,I have this feeling that I will be turning off the lights tonight.,neutral,informal
+308,I have tried to call him directly but he was not available.,negative,formal
+309,I haven't received the invitation yet to the Sep 13th meeting.,negative,informal
+310,I haven't talked to him in TWO weeks!,negative,informal
+311,I heard that is what he said as soon as he got the game ball Saturday.,neutral,informal
+312,I heard through the grapevine that we will be heading out to Ditka's for your birthday on Thursday?,neutral,informal
+313,I hope `events' at Enron have not made things difficult for you.,neutral,informal
+314,I hope his interviews go well tomorrow.,positive,informal
+315,I hope you and Linda will keep this time open on your busy schedules and attend.,positive,formal
+316,"I included the language she requested under (iv) as (iii) in Section 3.2 I omitted the last sentence relating to consequential damages of $1,000,000 per occurrence as we discussed and left in the language in Section 8.3 which limits the consequential damages to a maximum of $1,000,000 during the term of the Agreement.",neutral,formal
+317,I just decided to go pretty easy on it for the next couple of weeks and see if it gets any better.,positive,informal
+318,I just hate to pay for a real dinner for him when I know he won't be interested in grown up food.,negative,informal
+319,"I just spoke to Sheila and she told me 130 Central, on Wednesdays.",neutral,informal
+320,I left her a voicemail before lunch and am waiting on her reply.,neutral,informal
+321,I like the plan and we will discuss my comments next week.,positive,formal
+322,I look forward to meeting you on the 19th.,positive,formal
+323,I look forward to working with you on this and other issues.,positive,formal
+324,I may be adding someone to the agenda -- Vikram Pandit (recommended by Ken Lay and Pug Winokar),neutral,informal
+325,I may be in Dallas in the next few weeks.,neutral,informal
+326,"I may be on the road tomorrow (won't know until later), so something early afternoon Friday would be best for me.",neutral,informal
+327,I may have unexpected meeting(s) in the morning.,neutral,informal
+328,I might make some reference to discussing potential commercial resolutions to avoid the reopener.,neutral,formal
+329,"I miss our chats, but this is the wrong time and place to discuss that.",negative,informal
+330,I missed the presentation last Tuesday (I was sick) and would like a day or two to review the product.,negative,formal
+331,I modified the third item relating to prior approval by Ormet of incremental costs to cover the situation that such transportation or supply becomes unavailable during the period Enron is obtaining Ormet's prior approval.,neutral,formal
+332,I need it for our bid week meeting tomorrow afternoon.,neutral,informal
+333,I need to know the nature of the discussions we will be having with this company so I know how to word the decription in the agreement.,neutral,formal
+334,"I neglected to discuss it with Paige this weekend, of course.",neutral,informal
+335,I only wish I could bill by the hour the time I have spent today straightening out issues raised by this El Paso thing!!!,neutral,informal
+336,"I picked up the package of information today, and will read it tonight.",neutral,informal
+337,I ran a redline comparing the version we sent last Thursday and their new clean draft.,neutral,informal
+338,I ran out of the office on Friday after two difficult days and had Cathy collect all my stuff for my trip.,negative,informal
+339,I seem to have three appointments next week:,neutral,formal
+340,I sent down the list for 9/27/00 on Friday.,neutral,informal
+341,I sent them a card and a $100 check to go out to dinner on us.,neutral,informal
+342,I shall be at CMU on Friday.,neutral,formal
+343,I shall be glad to attend the meeting (of course a lot may happen between now and then and we may have many unexpected developments in a company as dynamic as Enron).,positive,formal
+344,I shall be glad to serve on the advisory board of MEC.,positive,formal
+345,I shall be in NYC May the17th through 19th (flying back on Friday).,neutral,informal
+346,I shall be in the office tomorrow (Fri) afternoon.,neutral,formal
+347,I shall be out Tuesday and Wednesday.,neutral,formal
+348,I shall be traveling Tue and Wed this week.,neutral,formal
+349,I shall be traveling for the rest of the week but my colleague Dr. Zimin Lu will call you to talk about different structures.,neutral,formal
+350,I shall be traveling this week.,neutral,formal
+351,I shall catch her tomorrow in person.,neutral,formal
+352,I shall contact you Thursday regarding the CMU presentation.,neutral,formal
+353,I shall do it this weekend.,neutral,formal
+354,I shall send you an updated version of my part next week.,neutral,formal
+355,I shall send you the list of people who will attend the meeting at a later day.,neutral,formal
+356,I shall send youan explanation later today or Monday.,neutral,formal
+357,I shall take care of it Thursday.,neutral,formal
+358,I shall try to organize a meeting next week after PRCs are over.,neutral,formal
+359,I should be in after lunch.,neutral,informal
+360,I spoke to Sara and Marie didn't want them to attend and that is fine with Sara.,neutral,informal
+361,"I spoke with Lynn around Christmas, and he said the person who would sign was out of town, but was supposed to be back last week.",neutral,informal
+362,I still plan on flying back on Thursday pm so that I can make that 900 appointment.,neutral,informal
+363,I talked to Mike about taking you out to dinner sometimes next week.,neutral,informal
+364,I think I need the coming long weekend to clean up all the papers and we shall be ready.,neutral,informal
+365,I think I'll join the credit union!,positive,informal
+366,I think it might be helpful if Nick Palatin was available as well.,positive,formal
+367,I thought of you this weekend.,neutral,informal
+368,I told Julie that Michael's calendar is open for this evening.,neutral,informal
+369,"I told her we were meeting to develop a policy about the opening of such websites, that we had no board resolutions passed allowing the opening of them, nor do we have control procedures in place about where statements go, etc., so we can control and prevent ""rogue"" trading.",neutral,informal
+370,I told him that I am not available but it does look good and it is in a nice place - also the speakers are first rate.,positive,informal
+371,I trust that my strongest asset is my intellectual capital and ability to look from new angles into complex issues.,positive,formal
+372,I understand that things are done differently in different cultures but I did not meet him and could not form my judgment based on personal observations.,neutral,formal
+373,"I want to hear what M. Cash said, and who else you are meeting with.",neutral,formal
+374,"I wanted to send this to you before I send it out to others, since I feel like there were changes we had discussed that somehow didn't make in the last draft.",neutral,informal
+375,I wanted to thank you guys for all your support over the last painful week.,positive,informal
+376,I was discussing Enron with my 20 year old daughter.,neutral,informal
+377,I was doing a lot of development projects in Berkley and enjoyed it.,positive,informal
+378,"I was going into the board meeting when it was received, so sorry I didn't respond.",negative,informal
+379,"I was kinda hoping for a post-graduation family event on that Saturday, as hopes were raised when the ticket issue came up.",neutral,informal
+380,"I was out of the office for a memorial service on Friday, November 10.",neutral,formal
+381,I was out of town this past week and did not get back until Saturday night.,neutral,informal
+382,"I was out the afternoon of Tuesday, November 28.",neutral,formal
+383,I was thinking it would be fun to have a family outing this weekend instead of sitting around the house.,positive,informal
+384,I went to Sheila's meeting.,neutral,informal
+385,I wil however still have the best weekend of the year.,positive,informal
+386,I will also send you a copy of this invoice in the mail and will be glad to send you the actual evaluation forms completed by the attendees if you would like to have them.,positive,formal
+387,"I will attach a list of current traders who might be available to handle a trade with Palo Alto, and I will also have a certificate of incumbency attached for the officer signing in behalf of Enron, and return a fully executed contract for your files.",neutral,formal
+388,I will attend.,positive,formal
+389,I will be at the Rockets game tonight with tthe guys.,neutral,informal
+390,I will be attending the Masters again this year.,positive,informal
+391,I will be back Friday to resume the watch.,neutral,informal
+392,I will be explaining this to my three children tonight.,neutral,informal
+393,I will be in the office all of next week.,neutral,formal
+394,I will be leaving work on Friday @12:00.,neutral,informal
+395,I will be off on Friday.,neutral,informal
+396,"I will be out Monday, but in early Tuesday.",neutral,informal
+397,I will be out of the office Friday and Monday.,neutral,formal
+398,"I will be out of the office on Monday, but will be available by phone.",neutral,formal
+399,"I will be out of the office on Tuesday, October 10th.",neutral,formal
+400,"I will be out of town on Monday, but Neil will be in, and will have my Lexus.",neutral,informal
+401,I will be out of town that day (a meeting I can't move).,negative,informal
+402,I will be travelling to Washington DC tomorrow (Tues) with Mark Bernstein.,neutral,informal
+403,I will facilitate a planning retreat at the University next week so I must spend some of my time working on that and also managing rental property.,neutral,informal
+404,I will follow-up with you next week regarding your participation.,neutral,formal
+405,I will put you on the schedule.,neutral,formal
+406,I will send you the required changes tomorrow.,neutral,formal
+407,I will try and make it to practice tonight.,neutral,informal
+408,I will try calling later this week to touch base and see how everything is in Houston.,neutral,informal
+409,"I will write more later, trying to get caught up from a week off.",neutral,informal
+410,I will write the check to UHCL next week.,neutral,informal
+411,I would be embarassed to live in Houston and I hope you can sleep at night.,negative,informal
+412,I would be interested in attending and giving a presentation.,positive,formal
+413,I would be very intersted in joining the rotation program to see different possibilities and aspects of IT department.,positive,informal
+414,"I would expect the board to seek repayment of any and all bonuses paid to senior managers based on these inaccurate financial results, including the estimated $30 million paid to the CFO, who allegedly is the architect of this scheme to defraud stockholders.",negative,formal
+415,I would greatly appreciate the opportunity to discuss my interest in a position with Enron and will contact you within a week.,positive,formal
+416,I would greatly appreciate your groups help in cutting some of these issues off at the pass.,positive,formal
+417,I would like to have a brief (30 minute) meeting about the noise in the political system about synfuel and reaffirm Jordon's viewpoint on Section 29 credits.,neutral,formal
+418,I would love to include my friend Carlos Sole from EECC for my birthday lunch.,positive,informal
+419,"I wrote you a separate note on Friday, but I wanted to thank you again.",positive,informal
+420,I'd like your help in identifying a guest participant who may help us think through some of the issues from either (or both) of two perspectives:,positive,formal
+421,"I'll be at the Lake Austin Spa weekend after next, so that keeps me going.",positive,informal
+422,"I'll be in DC tomorrow, although my schedule will be tight.",neutral,informal
+423,I'll be in tomorrow.,neutral,informal
+424,I'll be making significant changes as I get ready for the analyst meetings.,neutral,informal
+425,I'll call him at 130 (CST) if he is available.,neutral,informal
+426,I'll work on them over the weekend.,neutral,informal
+427,I'm assuming there are no sound issues.,neutral,informal
+428,I'm at home this am (kid stuff) but will be in around lunch and all afternoon.,neutral,informal
+429,I'm going to be on this conference call (the David Tucker call) for a long time.,positive,informal
+430,"I'm going to work really hard this week to see if I can catch up a bit, and take a day off soon.",neutral,informal
+431,I'm guessing that we may come down for a day or two next week.,neutral,informal
+432,"I'm in NYC, returning tomorrow.",neutral,informal
+433,"I'm just afraid to say anything about anything because of what you said the other night about, gee you can't do anything right.",negative,informal
+434,"I'm just surviving 3 miles around the park, and this weekend I plan to double my mileage to 6.",neutral,informal
+435,I'm on a conference call or I would have called.,neutral,informal
+436,I'm on a conference call that won't end.,neutral,informal
+437,I'm on a conference call which I hope will end by then - a deal we are trying to close today.,neutral,informal
+438,"I'm on a conference call, so an email response would be appreciated.",positive,formal
+439,"I'm on the road until Thursday afternoon, and give give blood on Friday.",neutral,informal
+440,I'm out all weekend.,neutral,informal
+441,I'm out of pocket the rest of the week.,negative,informal
+442,"I'm out of town this weekend - Neil's officer's meeting at the Hyatt Hill Country, then up to see Paige on Saturday, back on Sunday.",neutral,informal
+443,"I'm out of town, but can donate next week.",positive,informal
+444,I'm planning on attending.,positive,informal
+445,I'm trying to locate a copy of the contract to purchase the 501D5A turbine to see if we need to be aware of any issues in the contract.,neutral,informal
+446,I've added the definition of Scheduling Equipment Costs.,neutral,informal
+447,I've already discussed this with Mark H. and he thought it had already been done.,neutral,informal
+448,I've been trying to get David Minns for several days about various issues.,neutral,informal
+449,I've got the dinner schedules for 7:30 pm.,neutral,informal
+450,"I've talked to Deb Korkmas about it (I hear she's the one to handle such things), and I've asked Kathleen to identify the most active development entities so that we deal with as many as possible at once.",neutral,informal
+451,"If I remember, we spent a hour with London over the phone discussing just this issue!",neutral,informal
+452,"If that works for them, please reschedule the conference call, send a confirming email to Mike, Steve Swift, Kent, Marty, Scott, Rose, Sheila (and leave her a voice mail -she is on the road), etc.",neutral,informal
+453,"If we do, that brings up other issues, and we will have to run this by our outside counsel, Sullivan & Cromwell.",neutral,formal
+454,"If yes, which shared calendar?",neutral,informal
+455,If you are available I think it would be a good idea.,positive,formal
+456,"If you are inquiring about time that I may have been out of the office during the two week period ending today, I was out on Vacation one day, that being March 9, 2001.",neutral,formal
+457,"In a recent discussion with one of Enron's folks the City (or their lawyer) raised the issue that Kilpatrick Stockton had represented them in the past, and that there might be a potential conflict.",neutral,informal
+458,"In addition to our usual reasons for taking this very important one-day trip, I have been advised by Presidencia (equivalent for our ""West Wing"") that during this face-to-face meeting, we would have the appropriate opportunity to invite President Fox to visit Houston.",positive,formal
+459,"In addition, a seventy-two hour test will be run to ascertain that each unit is capable of producing the required output without outages.",neutral,formal
+460,"In addition, we will need the following closing documents: (i) Certificat e of Incumbency, (ii) certified board resolutions of the Policy for Approval of Guarantees (=01&Policy=018), (iii) certificate by the Treasurer or other au thorized officer certifying coverage of the Guaranty under the Policy, and (iv) certified copy of Enron Corp.=01,s articles of incorporation and bylaws.",neutral,formal
+461,"In any event, I will treat this email exchange as a private matter between old (in more ways than one!) friends.",neutral,informal
+462,"In any event, here's a change the counterparty wants to the tax language in the letter agreement.",neutral,formal
+463,In in New York the rest of the week.,neutral,informal
+464,"In my first presentation to Gazprom in Moscow, I remember, that I pictured Enron as the largest gas pipeline operator in Americas aggressively looking for energy development projects in emerging markets.",positive,formal
+465,"In order for us to continue with the discussions and the possibility of employment, we have been asked to provide a letter from Enron representing that we have been released from the obligations of our various employment contracts, specifically the non-compete provision.",neutral,formal
+466,"In regards to your topic for the conference, the theme of the 2001 Electric Market Forecasting Conference market volatility and risks regional markets.",neutral,formal
+467,"In the event of a Force Majeure affecting Buyer=01,s ability to receive Ene rgy from Seller, payment of the Demand Charge shall continue.",neutral,formal
+468,"In the event of a low rain and snow period, the system must possess t he flexibility to respond to the reduced availability of power supply.",neutral,formal
+469,"In the event that such a conversation would not cross your wires, it seemed to me that if Tata and Enron are driving for a settlement from different directions, your interests would be served.",neutral,formal
+470,"Individual transactions will 20 be confirmed by written confirmation to be acknowledged and signed by EPMI 20 and jointly by MDEA, YCPSC and CPUC.. ii.",neutral,formal
+471,Invoices are going out next week.,neutral,informal
+472,Is Sheila still planning on having the GE call tomorrow?,neutral,informal
+473,Is email from around 400 yesterday the final version of the payment schedule for the LM's?,neutral,informal
+474,It appears that our signers on the trading floor will be offsite in PRC meetings on Thursday.,neutral,formal
+475,It appears this class is on a Sunday & a Monday.,neutral,informal
+476,It currently appears that I will be on the road Wednesday and Thursday.,neutral,formal
+477,It effectively kills off the development of risk management at the wholesale and retail level.,negative,formal
+478,"It is the last two weeks of school, I believe.",neutral,informal
+479,It looks like Skilling will be able to attend the conference on May 15th.,positive,formal
+480,"It may take a while to get a copy, as I don't have an electronic version and I'm currently in meetings where I'm using my hard copy.",neutral,informal
+481,It seems we have planned for all contingencies.,neutral,formal
+482,It was a pleasure meeting you and John last Saturday.,positive,formal
+483,It was the best training I've ever attended.,positive,informal
+484,It will be October 16th and 17th (Monday and Tuesday).,neutral,formal
+485,It won't be this week.,neutral,informal
+486,"It would be beneficial to have a firm on board with some trading expertise, as well as more generalized transactional experience.",positive,formal
+487,It's Power 2000 conference in Paris.,neutral,informal
+488,It's been so busy this week that I haven't had time to talk to any of my friends.,negative,informal
+489,Jake called and said he wants to sign up Delta tomorrow (Friday).,neutral,informal
+490,Jeff Keeler (in our DC office) is covering John's issues.,neutral,informal
+491,Jeff and I landed in Singapore last night at 1am (it is odd leaving for the airport on Sat.,neutral,informal
+492,"John, FYI, here is the presentation we discussed today.",neutral,informal
+493,"Just in case there is an earlier opening, the utility people will be out tomorrow.",neutral,informal
+494,"K, here is a list of the dates that i would like to get scheduled as vacation if possible.",neutral,informal
+495,"Katzenbach Partners LLC specializes in organizational performance, leadership capability, and employee commitment issues.",neutral,formal
+496,Keffer et al will issue revised documents tonight.,neutral,informal
+497,"Ken said ""Get word back to Lucie that 6 or 7, but would prefer 6 and add an extra special 7th meeting during the year if it's needed"".",neutral,informal
+498,Ken was meeting with him the day before yesterday.,neutral,informal
+499,"Kevin, this presentation has been revised (we explained to her that the other one was too much about what they are doing and their exclusive license, and that it needs to be more practical and topical to apply to the audience that will be in attendance.",neutral,informal
+500,"Kim, I am reviewing the changes you made to see if they conform to our discussion.",neutral,formal
+501,"Kim, I have reviewed your markup of the redlined contract I forwarded to you last Wednesday.",neutral,formal
+502,Last night George stated that he may not want to tell them that and I agreed.,neutral,informal
+503,"Last night my little boy was sick, so I guess it was a virus.",negative,informal
+504,Leather upholstery is available on V6 models.,neutral,formal
+505,Leaving her to look after two infants while I attend the races didn't seem right.,negative,informal
+506,"Longhorns look good, this weekend will be a good test for them.",positive,informal
+507,"Looks like I'm headed to the Big Apple today, then Chicago tomorrow, back on Thursday.",positive,informal
+508,"Louisa goes to nursery during the week and mum and I juggle the hours between us ( I say mum and I as Toni is about as useful as a chocolate fireguard ) My sister is an art director for Vidal Sasson, doing very well for herself, she runs the new salon in the city in London and is always jetting of to Japan and other exciting `places, still single no children but loves Louisa to bits.",positive,informal
+509,Lousy start time but evidently they have a tournament of some sort on Saturday morning.,neutral,informal
+510,Lunch with Kristin is scheduled for the 20th of this month (Monday).,neutral,formal
+511,"Managing Energy Price Risk is comprised of 15 chapters, all of which include an introduction, which minimises the disjointedness that you may expect from a book written by a large number of authors.",neutral,formal
+512,"Mark Taylor, who is in Amsterdam this week, just left me a voicemail reflecting a conversation he just had with Dave Forster, and asked me to relay the following information to you (don't kill me, I'm just the messenger)...",neutral,informal
+513,"Mark and I are discussing what we've seen, defining and redefining what we want, and hope to finalize our thoughts soon.",neutral,formal
+514,"Mark and I were discussing my potential purchase of a car, and were looking at some web sites, and thought we would pass on the following car buying web sites:",neutral,informal
+515,Mark had a room for 1 night by the stadium but now i think we will fly in on Tues early afternoon and mess around Miami and therefor may want to stay closer to the city.,neutral,informal
+516,"Mark is out of the office today, but will return Tuesday.",neutral,formal
+517,May I assume that you are ok with the draft of the letter we forwarded to you on Wednesday of last week regarding revised pay off amounts.,neutral,formal
+518,"May I have your reaction to Rev. Jackson's comments by noon, Tuesday, Sept. 25?",neutral,formal
+519,Maybe he cancelled this week since he is out next week.,neutral,informal
+520,Meghan got some DVD's and her two favorite that she watches every night are Toy Story 2 and Little Mermaid 2...have your girls seen either one?,positive,informal
+521,Michael gets his school picture taken tomorrow.,neutral,informal
+522,"Michael has been tested in the past, and tests as extraordinarily bright, but he has had some performance issues which don't match up.",negative,informal
+523,"Mike said thank you for the message, but unfortunately, he will be out of town April 4th - 6th and therefore unable to meet with you while you are in town next week.",negative,formal
+524,"Monday would be 1000 times better, if this is at all possible.",positive,informal
+525,My assistant is setting up the legal team's conference call for Wednesday at 830.,neutral,formal
+526,"My assistant, Shirley Crenshaw, will call you regarding the time of the meeting.",neutral,formal
+527,"My feelings were hurt considering laning you the BMW, paying for dinner and washing and filling your car with gas!!",negative,informal
+528,My only suggestion is to put in a statement like - that after all your discussions with business unit head and AAs we are (changing) improving the program on the suggestions that you all wanted to see.,neutral,informal
+529,"My short agenda is Day 1: Go over basics of financial documentation w/confirm desk team & your assistants (maybe 2-4 hours depending on level of detail we go into) (spend rest of day approving online counterparties), Day 2: Go over specifics of confirmations with your assistants so they can prepare the Special Legal/Credit Annex for a confirm and review how to read a credit worksheet and what the credit issues mean (spend rest of day approving online counterparties), Day 3: Spend time with you & Peter going over what I went over with assistants & confirm people, then maybe spend time letting any of your dealmakers quiz me as they desire about swap issues (spend free time approving online counterparties).",neutral,informal
+530,"My time is not really my own these days,and I am currently working 7 days a week, literally (my last day off was 9 September), often 12-16 hours a day.",negative,informal
+531,My time is very limited next week and I am double booked most of the time.,neutral,informal
+532,My very sincere hope is that he will stay in the LNG group and perform a very important role especially in this type of development or deal making role.,positive,formal
+533,My wife and I have 1 year-old twins and I was hoping to get our Nanny to pull some week-end duty to help my wife with them as I went to the races.,neutral,informal
+534,Neil and I discussed this last night.,neutral,informal
+535,"Neil is working tomorrow (his turn), then we have a wedding to go to Saturday night.",neutral,informal
+536,"Next Thursday is Paige's 21st birthday, so we have great plans.",positive,informal
+537,Next week is Twas the Night Before Christmas.,neutral,informal
+538,No one is signing for CA Development today.,negative,informal
+539,"Now, less than a week from being laid off, I am receiving correspondences from Roadrunner moving, stating that I am on the hook for the $21,000 move!",neutral,informal
+540,"Of course!!! Shawna's answer is...both nights, many festive drinks!",positive,informal
+541,"Of course, it is a good thing to do at night so long as it isn't raining.",positive,informal
+542,Of course...Tuesday it is!,positive,informal
+543,"Okay, Sorry, I attached the wrong letter as I went to my meeting.",negative,informal
+544,Once for a bachelor party that was crazy and then a couple of weeks ago when I only got 4 hours of sleep the whole weekend.,negative,informal
+545,One can feel very alone at a time like this and words can not describe all the feelings that go with an event like this for someone in your position.,negative,formal
+546,"Other resources that have been identified to potential added firepower in the short run: Beth Pearlman, John Tollefson (IT), Bob Schultz (LK said she could spare him without delaying phase 2 roll out), Dave Forester (not a good option because it would definitely set back phase 2 roll out), Mary Solmenson, Scott Mills, Berry Pearce, David Port, David Sweeny, Sally Beck (advice and discuss additional resources).",neutral,informal
+547,"Our fast and flexible on/off site, offshore 24x7 delivery model lends itself to a full spectrum of outsourcing services - from applications maintenance, development, and modernization to full technology outsourcing, including data center operations.",positive,formal
+548,"Our first meeting of the Energy Committee on November 14, 2001 will be held at the Bauer College of Business - Melcher Hall in the AIM Center Board Room, which is on the first floor as you enter the building, from 5:00 PM to 7:00PM (Agenda Attached).",neutral,formal
+549,Our friends at the University of Texas are planning a conference on energy economics and finance in February of next year.,neutral,formal
+550,"Our hotel was great, smack in the middle of town and it only cost $30, breakfast and dinner included!",positive,informal
+551,"Our son Michael will be in your class beginning next Monday, October 2, so I wanted to introduce myself.",neutral,formal
+552,"PSA's are a hot topic, and I have a call into Lisa Bills to discuss it.",neutral,informal
+553,Paul was for many years a member of ACCF board as favor to me but finally resigned over our estate-tax position last year (and never did like our capital gains positions).,negative,informal
+554,"Peoples and Enron have a jointly (50/50) owned company called enovate, which will be involed in managing some of Peoples assets and some trading activities.",neutral,informal
+555,"Per my discussion with Jeff Skilling, Rod Hayslett will be added to the Executive Committee.",neutral,formal
+556,"Per our meeting, attached are the revised drafts of the weather GTC's incorporating the tax language and completing the Reporting Service, Reporting Agency and Data Source information.",neutral,formal
+557,"Plus, I spent last weekend with my folks, and too much exposure doesn't work for us.",negative,informal
+558,"Plus, I suspect we run the risk this week of getting very bogged down.",negative,informal
+559,"Presentations and discussion: 8:00 a.m. - 12:30 p.m. Hotel Caracas Hilton, Mezzanina, Avenida Libertador y Sur 25 * THIS EMAIL IS FOR INFORMATION PURPOSES ONLY, PLEASE DO NOT RESPOND TO IT * SEE ATTACHMENT FOR PROGRAM DETAILS AND REGISTRATION INSTRUCTIONS",negative,formal
+560,Project Summer does bring up some big questions and issues and I am not up to speed on the current thinking.,negative,informal
+561,"Ratan Tata, who attended Hank Greenberg's October 18 International Advisory Board meeting, and I talked on the margins about the Enron dispute.",neutral,informal
+562,"Regrettably, Mr. Lay has a previous engagement and will not be able to attend the EE&CC Holiday Party.",negative,formal
+563,"Richard, Right now I'm scheduled to be out of the country.",neutral,informal
+564,Rick Buy stated firmly that Jeff will not be interested in taking this type of deal to the board especially with what just happened with Ecogas and Kafus.,negative,informal
+565,SK-Enron will be the first utility in Korea to offer customers on-line billing and payment and other related services (under development and looki ng for package solution).,positive,informal
+566,"Second, we will need to add some drop downs to deal with online trading issues.",neutral,informal
+567,"Shanna, talk with Rick but he will be working until June or July then he will retire and be available as a consultant to us.",neutral,informal
+568,"She is currently on the way to Colorado with some friends, and will be back a week from Sunday.",neutral,informal
+569,"She said it should be really boring (so I put it on my calendar as ""boring awards banquet""), but with all the girls at one table we'll misbehave and have fun.",negative,informal
+570,"Since he has been ill, I'll probably head back to Houston EARLY on Sunday, and won't wait for Paige to get up.",neutral,informal
+571,"Since the equipment is owned by WestLB and since the feeling is we don't want to involve WestLB in the transaction, the actual transfer would take place at the termination of the WestLB facility.",neutral,formal
+572,"Since the new agreement is to cover Markwest for the period that they are letting Enron review Markwest's financials which are scheduled to be publicly released next week, the term references therein need to only cover the period from the date hereof until such financials are scheduled to be released, which I understand to be next week.",neutral,formal
+573,"Since you and I go to the same church and are on the Trustee Board together ( First United Methodist Church ) as well as serve together on the Greater Houston Partnership board ,etc, etc..I think I can imagine how busy you are.",neutral,informal
+574,"So for the executed master swap agreement list we need to put: ""Need board resolution prior to trading""",neutral,informal
+575,"Sooners show up, not the Sooners of the last 3 weeks.",neutral,informal
+576,"Speed, flexibility, and round-the-clock productivity are the hallmarks of Izhuta Software Development Outsourcing Services.",positive,formal
+577,Steve Horn is pushing for us to speak at this conference in Aspen.,neutral,informal
+578,Sweden is also an excellent place for a summer conference.,positive,formal
+579,"Take, for example, Plug Power (Nasdaq: PLUG), which ran out of gas when General Electric (NYSE: GE), which owns one-third of a joint venture with Detroit Edison (NYSE: DTA) and Plug, decided to change course.",neutral,informal
+580,Taking insulin does not cure the disease nor prevent the development of complications; insulin is simply their life support system and without it they would die.,negative,formal
+581,"Task 3. Given successful demonstrations of the POC solution(s), ICAST and Enron will meet to discuss the efficacy of the approaches used and will determine jointly the specifications of planned production software, and the method of providing this capability to Enron for routine every day use.",neutral,formal
+582,Tens of thousands of Texas households have joined you in taking advantage of the tremendous savings NewPower will provide you over the next two years.,positive,formal
+583,Texas variances virtually clean through FY 1999 2. Assisted in the elimination of phase 1and created an alternative process for client services 3. Assisted in the development and modification of the PMA report 4. Successfully implemented teh Denver Region OA process and trained the denver office on the required procedures 5. Successfully monitored and managed the deferral accounts for several major customers on the Texas desk,positive,formal
+584,"Thank you for the invitiation, however, I wanted to let you know that John is currently scheduled to be out of the country on January 11.",neutral,formal
+585,"Thanks for the nice note, I am the person that has the really neat yard that was featured in the Chronicle, at least until this weekend when I bought and moved into my new house.",positive,informal
+586,"Thanksgiving is set at Mom's for Thursday, November 23, 2000 at noon.",neutral,informal
+587,"That change will have to be approved by Mark Taylor, who is out of town until next week.",neutral,informal
+588,"That signed ETA Amendment came in about a week ago, and the copy has already been sent to Lisa Lees, and the file is closed as far as I'm concerned.",neutral,informal
+589,"That sounded like a good idea at this point, ANYTHING would have sounded like a good idea and as it turned out, Officer Mike runs a plumbing business on weekends; he knew how to take out the sink!",positive,informal
+590,That still leaves Monday.,neutral,informal
+591,"That strikes me as a little too soon after the meeting to be totally credible, and I really can't picture senior management telling people what they really think about our values or anything, if they really think that way.",negative,informal
+592,The 3rd party debt default language was added as a triggering event.,neutral,formal
+593,"The Advisory Board meets once a year, usually in the late fall in New York.",neutral,formal
+594,The Board of Directors of GISB decided yesterday at their quarterly Board of Directors meeting to continue discussions with EEI and other interested groups regarding the formation of an Energy Standards Board.,neutral,formal
+595,The Bonnard is my first choice of all the pieces we discussed.,positive,formal
+596,"The CEC paints a considerably more optimistic scenario, betting that California will bring an additional 5,000 20 MWs on line to meet peaking summer demand.",positive,formal
+597,"The Co-Chairs of the meeting are Bill Wiggenhorn, until recently President of Motorola University, now of Providian Financial, and Gary Jusela, Chief Learning Officer at Lucent Technologies.",neutral,formal
+598,"The Company expressly disclaims any obligation or undertakin g to release publicly any updates or revisions to any such statement to refle ct any change in the Company's expectations or any change in events, condition s or circumstances on which any such statement is based.",neutral,formal
+599,"The Gala starts with a private viewing of the exhibition, followed by a seated dinner for 280 people in the Rotunda of the museum.",neutral,formal
+600,The Research Group meeting starts at 11:30 and lasts till 1:00.,neutral,formal
+601,The Swap Group has already made plans for a dinner on Wednesday or I would love to join you.,positive,informal
+602,The Wharton offers a symposium in Paris on June 10 on High Tech Acquisitions and it would make a lot of sense if you (or somebody from London you could identify) could attend and help us to evaluate the usefulness of this project.,positive,informal
+603,"The agreement has an exclusivity arrangement, which prevents the other company from chasing certain transactions without Enron.",neutral,formal
+604,"The answer to the United Way Pre-qualifying Questionnaire need to be turned in by the end of tomorrow, July 26, 2000.",neutral,formal
+605,"The azaleas were not at max bloom, i think they were about a week away due to the cooler weather.",neutral,informal
+606,The books have arrived and I shall FedEx them tonight to your university address (shown at the bottom of your messages).,neutral,formal
+607,"The conclusion is that while we continue to need to address the kinds of issues laid out in your recommnedations, we need to look at solutions which may go deeper to adress our communications problems .. .",neutral,informal
+608,The conference will be held in Austin.,neutral,formal
+609,The cops arrived close to midnight and turned out to be quite nice.,positive,informal
+610,"The dead line for this effort is Friday, September 1st Thank you for your cooperation",positive,formal
+611,The delays in messages from the stacks to the website have gotten worse in recent weeks.,negative,informal
+612,"The delivery dates on one of the turbines will be changing, as is the payment schedule.",neutral,formal
+613,The engagement letter was mailed last week.,neutral,formal
+614,The events of September 11 will have long-term effects on the insurance industry.,neutral,formal
+615,The few shares of enron i have left are not worth the paper they are printed on.....i also saw all the stock options you and the board have excersied over thats few years 100s of million dollars what a shame ... When you opted to replace the oracle Payroll with SAP I new you were loosing your mind ....,negative,informal
+616,The fixes implemented over the weekend appear to have worked extremely well.,positive,formal
+617,The floor refinishers will show up Monday morning.,neutral,informal
+618,The market developments you describe happen quite often and this is one of the reasons we want to have the model you are working on.,neutral,formal
+619,The normal process is to have him interviewed by three members of the Executive Committee who then confirm that he meets our requirements for being an Enron VP.,neutral,formal
+620,The objective of the meeting with Jeff Shankman is to use his powers of persuasion to make sure that John Arnold and Louise Kitchen can make presentations to the Tiger Team.,neutral,formal
+621,The only information we need to continue to restrict is the Legal and Credit comment section (attorney-client privilege issues).,neutral,formal
+622,The only time I have next week is Monday.,neutral,informal
+623,"The original document is in my Fuel Cell/Equipment contract file, and has the same name as the one below, only it is dated October11 (I believe rev 2).",neutral,informal
+624,The power market developments in the US have created several unique challenges for energy industry economists.,neutral,formal
+625,The presentation is scheduled for the 23rd of October.,neutral,formal
+626,The problem is that everybody is swamped right now with PRCs and end-of-year issues.,negative,informal
+627,The role requires precision and good organizational skills with an emphasis for meeting deadlines and prioritizing.,neutral,formal
+628,"The weather should be getting nice later this week, and I need to gush about the IAOC.",positive,informal
+629,"The whole group stayed interested, which is a tribute to your preparation and delivery.",positive,formal
+630,"Then, once we work out confidentiality issues relating to our comments section and different companies, we will be opening the database to all interested ENA employees.",neutral,formal
+631,There are discussions ongoing today.,neutral,formal
+632,"There could not be a more important time for financial and business leaders to gather to discuss some of the major challenges facing the global economy, and so we are moving full steam ahead with arrangements.",positive,formal
+633,There is an opportunity to discuss a way in which Enron could perhaps become involved in a very significant set of new developments within the sphere of influence in which I operate.,positive,formal
+634,"There is no partial force majeure, a party is either unable to perform because of the event or the party can perform.",neutral,formal
+635,There were two such events.,neutral,formal
+636,"Therefore, we need to have BOTH dogs put up tomorrow, and the gate open.",neutral,informal
+637,They are all out of the office thru next week.,neutral,informal
+638,"They are being forwarded to our business people now for review, but I don't expect that we will have them ready until Tuesday (Monday being a federal holiday here).",neutral,informal
+639,"They understand that we are working some accounting issues, and they have a general idea of what we want to do.",neutral,informal
+640,"Thinking through this product today and reading through my various emails from David Minns, I have come to the conclusion that there are no particular issues specifically relating to Australian financial power, and my thinking is to just mirror the approval for some other previously approved financial power product.",neutral,informal
+641,Third through eighth graders join together monthly to celebra te the Holy Eucharist.,neutral,formal
+642,"This is 20 going to be primarily Philippe's meeting now but he is going to attend to 20 provide needed commercial balance and if he does, I believe that is all the 20 time he has to spend on that side of the business.",neutral,informal
+643,"This is the information regarding the best hotel for the meeting on December the 6th, 9:00 - 12:00.",neutral,formal
+644,This is to be her first time meeting the family and she is very nervous.,negative,informal
+645,This shows changes as if they were revising the doc that we generated on Friday.,neutral,informal
+646,"Those rumors were further fueled Wednesday when Enron announced that Lay would be stepping down as chief executive of the company 20 effective Feb. 12, though the company said Lay would remain chairman of the 20 board.",neutral,formal
+647,"Three weeks later, fed up with the wisecracks from a press that had looked up the dictionary definition of ""enteron"" (n. the intestine), he changed the company's name again.",negative,informal
+648,Thursday is great.,positive,informal
+649,Thursday would be great.,positive,informal
+650,Tonight I'm going to see a house after work today and then I have a late Sergei workout.,neutral,informal
+651,Tonight John and I are going to be migrated to Outlook.,neutral,informal
+652,"Tuesday afternoon is our best bet, in NYC.",positive,informal
+653,"Tuesday is bad for me, but Wednesday or Thursday looks good.",positive,informal
+654,UNFORTUNATELY!! work totalled interfered with my plans to go to the Masters last weekend.,negative,informal
+655,"Vince will be available at home on Tuesday and Friday this week, bet 1:00 p.m. and 5 p.m. California time (3 hrs difference to NYC).",neutral,informal
+656,We actually made progress in outlining the issues.,positive,informal
+657,We are flipping Geoff Storey's book tonight to a us book(price and basis split out) and we will need an index book.,neutral,informal
+658,We are having a hard time finding a meeting place.,negative,informal
+659,We are looking at November 14 (5-7 p.m.) for the first meeting of the committee.,neutral,formal
+660,We are only limited by the thought of choosing just one night over the other!,neutral,informal
+661,"We are probably going to the Matagorda livestock show and auction this weekend, and maybe the rodeo.",neutral,informal
+662,We are really swamped and I would like to keep our involvement in conferences to a reasonable minimum.,neutral,formal
+663,"We are very pleased to have you participate in our ""Markets in Transition"" symposium on Thursday, January 10, 2002.",positive,formal
+664,We didn't know if you made other plans or moved on since our last discussion a while ago.,neutral,informal
+665,We expect the number of U.S. bid cities to be reduced to four finalists by this December as a result of these meetings.,neutral,formal
+666,We got a crazy cold spell last week but it should be gone when you come.,neutral,informal
+667,"We had a great time this weekend, too.",positive,informal
+668,"We had a wonderful, quiet weekend.",positive,formal
+669,We had our ten year reunion last weekend...quite strange.,neutral,informal
+670,"We have a new online trading system starting Tuesday, ClickPaper.com, and I will need to mirror the Online Trading Database.",neutral,informal
+671,We have about 5 couples going right now and the room rate is $440 per couple for all four nights total.,neutral,informal
+672,"We have developed a similar model (without some nice functionalities CHARM has) in about two weeks, at request of Rick Jones who joined EES from HSB. Rick worked on a similar model at his old company and wanted to have a similar tool for his projects with Enron.",positive,informal
+673,We have had no substantive discussions with VEPCO about this agreement at all.,neutral,formal
+674,We have issues with the vendor concerning the late delivery of this equipment.,negative,formal
+675,"We have not had a tax, insurance, accounting or finance review of the form for ENA, and with TurborPark closing this week it may be difficult to have completed within the next 24 hours.",negative,informal
+676,We have two new lawyers that have joined our Group today: Francisco Pinto-Leite and Frank Sayre.,neutral,formal
+677,We haven't worked with a term sheet on the equipment sales I've worked on.,neutral,informal
+678,"We moved the equipment straight out of TurboPark and into the llc, then on the same day sold down the equity of the llc.",neutral,informal
+679,We need to keep pushing information to them regarding these issues.,neutral,informal
+680,"We plan to organize subcommittees dealing with Education, Research, and Trading---so it may just involve two meetings a year.",neutral,informal
+681,"We shall give him an offer of a job in Houston (on the terms we discussed with) plus an option to stay in London, if he does not like Houston.",neutral,formal
+682,"We should be ok Saturday-Wednesday, since I'm planning on being home, and Paige will be home on Tuesday.",positive,informal
+683,We use these case studies during Super Saturdays.,neutral,informal
+684,We went out to dinner with the key players and I think they understand our new vision and they appeared to be 20 fired up.,positive,informal
+685,"We went to Michael's school on Wednesday, as his class was singing in chapel.",neutral,informal
+686,We went to Palacios last weekend.,neutral,informal
+687,"We went to the rodeo last night, and I'm really tired today.",negative,informal
+688,We will be discussing this possibility with Ernie Cockrell on November 6th.,neutral,formal
+689,We will not be able to be there the entire week and we are looking at the exact dates and my schedule - but count us in.,neutral,informal
+690,"We'll be turning a new draft to Peoples today or tomorrow, but I figure it needs to go to Allyson now.",neutral,informal
+691,We're preparing our Annual End of Year Issue this week and wanted to ask fo r your participation.,neutral,informal
+692,"Well, I know this is terribly short notice, but Ken does have a meeting with Tom DeLay on Monday morning at 9:30 a.m.",neutral,informal
+693,What about Friday ro Saturday night (your choice).,neutral,informal
+694,What about Sep the 11th or Sep the 12th (Monday or Tuesday)?,neutral,informal
+695,What audio/video equipment do you need?,neutral,informal
+696,What is involved in the site development plan?,neutral,formal
+697,What price is to be used for such non scheduled excess volumes?,neutral,formal
+698,"When Andre left, we reduced the corporate function to a ""default provider"" role -- if a business unit had a need it was not otherwise meeting, Mike Hicks (as well as an outside consulting firm) would help identify competent resources in the area.",neutral,formal
+699,"When John called me last week and asked the question I gave him that opinion, and I had assumed that it had been communicated to you.",neutral,formal
+700,"When we had a big group meeting a few months ago we (Legal) were actually surprised by our success level at that time, but these numbers exceed our expectations.",positive,informal
+701,"When you have a minute, I've been inputting data all week and have fixes/upgrades we need to the database.",neutral,informal
+702,"Will closing and funding take place tomorrow, or will funding be a day later?",neutral,informal
+703,"Wish I could give you a great big hug too, but I'm sure Mr. Bean and Greta will drown you in love when you get home to them tonight!",positive,informal
+704,"With respect to sales to California, we have concluded at least one short term sale and have talked with Cal Dept of Water Resources about longer term deals, but we were still struggling with credit issues, last I heard.",neutral,informal
+705,Wonder how I lose 15 lbs by Thursday?,neutral,informal
+706,"Worth, so I will be heading that way on Monday.",neutral,informal
+707,"Would you mind calling him and telling him that I am tied up on a conference call that is likely to last until 500, so I can't call him until after then.",neutral,formal
+708,"Yes, I am available.",positive,formal
+709,"Yes, Lucinda had a little girl last Friday by c-section.",neutral,informal
+710,"Yes, there will be different legal/jurisdictional issues.",neutral,formal
+711,"Yes, these numbers are the posted volumes according to their bulletin board.",neutral,informal
+712,"You have the list that Gregg prepared on commercial/legal to do's, and he and I will work on those things next week.",neutral,informal
+713,Your December 2001 issue of E-lert for personal development in business is now available on http://www.BusinessCafeOnline.com,neutral,formal
+714,Your card will be available for the next 90 days.,neutral,formal
+715,Dear Mr. Lay: I would like to meet with you concerning my being the new CFO for Enron.,neutral,formal
+716,"I plan to be in Houston several times throughout the month, and I'm available to meet at your convenience.",neutral,formal
+717,I shall see you on Friday.,neutral,formal
+718,"I wanted to discuss the confidentiality agreements, and whether you envision that other confidentiality agreements may be necessary or required.",neutral,formal
+719,I will see you at 9 am on Sunday.,neutral,informal
+720,"I would like to invite you to address the group on E-Commerce issues at our next meeting (Friday, September 8th in Houston).",positive,formal
+721,"I'm under the gun right now, but will you be available on Friday for a chat?",neutral,informal
+722,Lets get together for dinner.,neutral,informal
+723,"My schedule should be getting better (famous last words), and I hope we can get together soon.",positive,informal
+724,"The theme for the walk this year is ""Knock Out Diabetes"" and we would like to have you join us for this great event.",positive,informal
+725,We're preparing our Annual End of Ye ar Issue this week and wanted to ask for your participation.,neutral,informal
+726,Why don't we chat (via email!) Monday and figure out the best way to go.,neutral,informal
+727,A week later?,neutral,informal
+728,"After you have had the opportunity to review my resume I would like the opportunity to discuss, in person or by phone teleconference my potential employment opportunities with your company.",neutral,formal
+729,"Also, we could have some general, preliminary discussions with VEPCO about it, if we feel ready.",neutral,informal
+730,"And at 2pm, we'd like you to meet with our QCF students for an hour or so.",neutral,informal
+731,Coffee early next week would work for me.,positive,informal
+732,Frank and I were thinking we might want to get together sometime next week to discuss this.,neutral,informal
+733,Friday is good for me.,positive,informal
+734,"Full meal plan: breakfast, lunch, dinner daily;?",neutral,informal
+735,"Graydon: I was thinking i may come into Austin this weekend to do some sking on lake austin, let me know if that is good.",neutral,informal
+736,Hi. Who can meet when?,neutral,informal
+737,"However, Mike asked that I pass along to you my phone and e-mail information so that you may contact me to schedule the meeting to discuss LNG projects.",neutral,formal
+738,"However, if you are free Thursday eve.",neutral,informal
+739,I am glad you can speak at our lunch meeting on Feb 15.,positive,formal
+740,I shall be glad to help to arrange a meeting with Prof. Ikenberry.,positive,formal
+741,I shall be glad to join you at the dinner and on Saturday.,positive,formal
+742,I shall be glad to join you for lunch with MEC.,positive,formal
+743,I shall be glad to meet on Thursday for dinner.,positive,formal
+744,I shall join you.,neutral,formal
+745,I was pleased to have an opportunity to meet with you and Linda in April to discuss the Library/Honors campaign.,positive,formal
+746,I will attempt to get educated first and then we will set up a meeting.,neutral,formal
+747,I will leave SA on Friday at noon if you want a ride home or if you want me to follow you.,neutral,informal
+748,I will make myself available after class to meet with whoever you want me to meet with.,neutral,formal
+749,I would appriciate if you would send to me each week the PGE Position Report.,neutral,formal
+750,I'll be in Houston for the next three weeks if you want to talk to me.,neutral,informal
+751,I'll look over the list and give you a call after lunch.,neutral,informal
+752,Let's just assume I'll be out Friday afternoon.,neutral,informal
+753,"Let's plan for a celebration next week, Thursday.",positive,informal
+754,Maybe after you look at things we can discuss it.,neutral,informal
+755,Maybe next week.,neutral,informal
+756,Maybe on Saturday.,neutral,informal
+757,Monday would work for us.,positive,informal
+758,"Ms. Peppers, I am very sorry, but I must once again reschedule the appointment that you have with Mr. Lay.",negative,formal
+759,"NOTE: If you are unable to participate, you may hear the replay until 5:00 p.m. on Friday, January 18:",neutral,formal
+760,Next Saturday or Sunday would work for me.,positive,informal
+761,OK. Friday was going to be really difficult for me anyway.,negative,informal
+762,"Should you not be able to call me, then I will send you a short memorandum about the situation on Monday.",neutral,formal
+763,"Since you will not be able to attend the first meeting, I would like to arrange a visit by you to the Bauer College sometime in the near future, at your convenience.",neutral,formal
+764,"Since you've been out of town so much, would it help if I took off Friday so that you can catch up?",neutral,informal
+765,"So we don't have problems with Canadian counterparties, I would like to change that to 365/366 accross the board.",neutral,informal
+766,"Sorry for the late notice, I forgot I had a dentist appointment at 3:00, I can meet any other day this week.",neutral,informal
+767,"Sorry, I can't participate on Saturday.",negative,formal
+768,The copy of the review is available if you want to take a look at it.,neutral,informal
+769,"The dinner is in River Oaks, so we could just drop him off.",neutral,informal
+770,The entire week of the 11th does not look good for me.,negative,informal
+771,This is in follow-up to the deal transfer matter we discussed this morning.,neutral,formal
+772,Tuesday or Wednesday would work.,neutral,informal
+773,Tuesday would work better for me.,positive,informal
+774,We are meeting with GE tomorrow to talk about this.,neutral,informal
+775,We are not ready to execute an agreement with them until we have had some discussions with them about their authority.,neutral,formal
+776,We are organizing a group with RAC to send a few people to this conference at a discount to full cost.,neutral,informal
+777,We asked our geophysicists for help and are shooting for a meeting on Thursday to run our ideas by them.,neutral,informal
+778,We deferred discussions about an extension until Monday.,neutral,formal
+779,"We discussed it with Vivian Shudde, and she suggested that I give you a call about the Grace School.",neutral,informal
+780,"We have you scheduled to present to students on 11/15 from 11-2, and on 11/16 to present a seminar to the finance faculty.",neutral,formal
+781,We hope you will join us for this exciting event and we look forward to seeing you there.,positive,formal
+782,We made arrangements to go on Thursday and stay Thursday night.,neutral,informal
+783,We need to cancel Michael's appt with Sharon for that Monday.,neutral,informal
+784,We need to follow-up because his dad is on the board with me for JDF and he was the number 2 guy at Compaq with Rod Canion.,neutral,informal
+785,We plan to fly out on Tuesday and return on Saturday.,neutral,informal
+786,We proably need to meet for a few minutes to explain the way I estimated charges.,neutral,informal
+787,We should cancel the meeting for the time being and let Rick obtain clarification of some issues from AA.,neutral,formal
+788,We still have a few binders with the presentation materials available if you are interested.,positive,informal
+789,"We will, in fact, be discussing it at our group meeting next week.",neutral,formal
+790,We would like to do some more if possible today or tomorrow.,positive,formal
+791,We'll have to reschedule.,neutral,informal
+792,We'll meet in the mayor's office at 11:30 and I would be most grateful if I can say you're on board.,positive,formal
+793,"Wednesday, 1:00 works for me.",positive,informal
+794,"Wednesday, April 19 works for me.",positive,informal
+795,"Were you serious about our conversation Friday, or were you kidding me?",neutral,informal
+796,What could be better than a meeting on an interconnection agreement?,positive,informal
+797,What sandwich would you like to have for lunch?,neutral,informal
+798,When are you thinking of meeting with Beck?,neutral,informal
+799,When you guys have some time it is probably worth taking a half hour to discuss it.,positive,informal
+800,"With respect to Online Trading, Mark wanted me to follow up with you re: insurance/reinsurance company issues.",neutral,formal
+801,Would it be possible for you to be in Houston this Friday morning for the GE meeting?,neutral,formal
+802,Would it be possible to ask some key people from our Credit Dept. to attend this semiar?,neutral,informal
+803,"Would love to attend, but I will be out on vacation.",positive,informal
+804,You can reach me on Thursday at my cell phone 713 410 5396.,neutral,informal
+805,You guys just peeked my interest last time and I would like to continue discussions.,positive,informal
+806,You must assume that this report will become public eventually.,neutral,formal
+807,You need to talk to your mom and decide if we are going this weekend.,neutral,informal
+808,You were assigned NO tasks this week!,neutral,informal
+809,Are you available this afternoon to talk to him with me?,neutral,informal
+810,Are you guys still thinking of maybe joining us skiing?,neutral,informal
+811,"By the way, are you free for dinner on Monday?",neutral,informal
+812,Call me so that we can discuss.,neutral,informal
+813,Can we discuss this again by pbone?,neutral,informal
+814,Can we pow wow about this 1st thing Monday...,neutral,informal
+815,Can we reschedule the dinner?,neutral,informal
+816,Can you meet me there to do house & yard clean up day?,neutral,informal
+817,"Carolyn and/or John, could one or both of you give me a call as soon as you are available for a conference call with Chris Calger, Steve and me.",neutral,informal
+818,"Do you want to get together a few minutes early tomorrow to discuss indemnity/LOL, etc?",neutral,informal
+819,Don't know if you are an Astros fan but we would love to have you and Ann join us at one of the games.,positive,informal
+820,Feel free to call me when you have a moment to discuss further.,neutral,formal
+821,"Greg: I will not be able to go to lunch with you, dinner is possible.",negative,informal
+822,I can be reached at 713-783-1223 if you want to further discuss scheduling of a meeting.,neutral,formal
+823,"I can call you when I get out of my meeting, but it might be awhile.",neutral,informal
+824,"I know you guys just got back from a vacation, but were wondering if you might like to join us for a skiing trip to Deer Valley.",neutral,informal
+825,I shall ask him to give you a call and will be glad to join you at the meeting with Martin.,positive,formal
+826,I shall be glad to join you for dinner on Sunday.,positive,formal
+827,I shall be glad to meet and discuss the project.,positive,formal
+828,I shall be glad to meet you on the 13th.,positive,formal
+829,I shall call you with the details later this week.,neutral,formal
+830,I shall schedule a meeting with you next week to discuss how we can help you,neutral,formal
+831,I shall stop by tomorrow to say hello.,neutral,formal
+832,I think that you should spend here at least 3 weeks.,neutral,informal
+833,I thought maybe if it met w/your running schedule you might want to join us...,neutral,informal
+834,I would like to invite you to visit us in the Woodlands one weekend in July.,positive,formal
+835,I would love to see us playing golf together someday at a big CEO conference.,positive,informal
+836,I'll talk to you about it tomorrow.,neutral,informal
+837,I'm in all day and tomorrow if you want to discuss.,neutral,informal
+838,"If either of those issues come up, let me know.",neutral,informal
+839,"If so, I will call you to discuss next steps in formulating a responsible energy policy for America.",neutral,formal
+840,"If you have any comments or questions you would like to discuss with me, do not hesitate to call me at (713) 853-3399.",neutral,formal
+841,"If you permit, I would love to discuss them with you.",positive,formal
+842,"Just a note to remind you about something we need to discuss tomorrow, Transco Zone 6.",neutral,informal
+843,Just a reminder to talk to me Monday about the utilities.,neutral,informal
+844,"Ken, I would like to like to schedule a meeting with you to discuss your corporate customer service initiatives.",positive,formal
+845,"Ken, With all that has transpired in the last several weeks, I know that you must be incredibly busy; but if you can work it in, John Kelley and I would like to meet with you for about 30-40 minutes to give you an update on two initiatives, listed below, aimed at getting the 2012 Olympics to Houston. 1. Conversion of the Astrodome to a track and field facility.",neutral,formal
+846,Let me know if you would like to grab a drink over the next 2 weeks.,neutral,informal
+847,Let's discuss in person.,neutral,informal
+848,Let's discuss this.,neutral,informal
+849,Let's discuss upon your return on our weekly call.,neutral,formal
+850,Let's get together this week with Ted and discuss the future.,neutral,informal
+851,Let's meet 11:30 at the lobby.,neutral,informal
+852,Let's plan to meet for dinner then.,neutral,informal
+853,Lets discuss when I am in Dubai.,neutral,informal
+854,"On Wednesday, we'll examine the impact if George W. Bush wins.",neutral,informal
+855,Please call if you would care to discuss.,neutral,formal
+856,"Please call me, Maureen McVicker, at 3-1808 and I will get you on his schedule for next week.",neutral,informal
+857,Please call so that we can discuss.,neutral,formal
+858,"Please do not hesitate to contact m e if you would like to discuss these materials further, or if there is anythi ng else that I can do to assist you.",neutral,formal
+859,Please give me a call next week and we can discuss this in more detail.,neutral,informal
+860,"Please, call me on Tuesday.",neutral,informal
+861,"Reflecting on the events of the past several months, I would like to talk with you regarding how my extensive experience in managing and divesting Enron's foreign and domestic businesses and assets could be utilized by the company on an interim basis.",neutral,formal
+862,See you at 11:45 tomorrow.,neutral,informal
+863,"Sounds good to me! Saturday, 8:00 am at Buffalo Grille it is!",positive,informal
+864,"Thanks and if you have any questions about the process and what we are looking for, please don't hesitate to discuss with both of us.",positive,formal
+865,There is a lot going on here and in S America and we can probably discuss it next week.,neutral,informal
+866,"Time permitting, we can discuss the ESA transaction once we are done with the GE stuff.",neutral,informal
+867,We can make reservations for dinner around 6:30 - 7:00 in a resturant within 10 minutes by car from the hotel.,neutral,informal
+868,We have a conference call at 200 with Delta.,neutral,informal
+869,We'd love to take you to dinner.,positive,informal
+870,What are we doing for dinner tonight?,neutral,informal
+871,When are you available to discuss how to deal with the various issues we need to address to get this wrapped up?,neutral,formal
+872,When we get this to 20 the next step lets discuss and we can get both of us on the same page as to 20 the best way to coordinate all these efforts.,positive,informal
+873,"When we get together to discuss stuff, maybe we can review this.",neutral,informal
+874,When would you like to discuss utilities...?,neutral,formal
+875,"When you get a chance and things settle down, please give me a call or I can definitely find time for lunch.",positive,informal
+876,Would you like to join me?,neutral,informal
+877,You and I need to sit down and discuss in some detail John Ale's contract and yours.,neutral,informal
+878,Please contact Sherri Sera (713/853-5984) or Katherine Brown (713/345-7774) for the weekly dial-in number and passcode.,neutral,formal
+879,"Please see if he is available to meet on Monday afternoon, preferably in New York (although I'll confirm later).",neutral,informal
+880,"Please, remind me about it on Thursday (old age and the hectic pace here start showing up).",neutral,informal
+881,Would you consider being a keynote speaker at this conference (Feb 22 evening)?,neutral,informal
+882,"Also, can you find a conference room?",neutral,informal
+883,"Also, please plan for a trip to London in 3-4 weeks.",neutral,informal
+884,Apparently you promised to send a postcard every week or something.,neutral,informal
+885,Are we having your group meeting today?,neutral,informal
+886,Are you available any time this week?,neutral,informal
+887,Are you doing anything tomorrow night?,neutral,informal
+888,Are you going to vegas in two weeks?,neutral,informal
+889,"As a courtesy to Maureen Raymond, please, discuss the timing with her.",neutral,formal
+890,"As a follow-up to those meetings and our QBR, Jeff and I would 20 like you to prepare a more definite business plan for the future.",neutral,formal
+891,Attached is the accomplishment discussion to go with the public affairs goals -- let me know if this is sufficient and consistent with what you want to present....,neutral,informal
+892,Can you get me a draft by Friday am?,neutral,informal
+893,Did you watch our boy Rudy Saturday night?,neutral,informal
+894,Do you have the draft with the memo of issues?,neutral,formal
+895,"Do you want a bilateral or one-way, and what is the nature of your discussions?",neutral,formal
+896,Do you want to run Saturday again.,neutral,informal
+897,"I know we didn't meet yet, but I need to ask you and Nancy a small favor.",neutral,informal
+898,"If so, please advise of any time you have available on Monday, and I'll get it set up.",neutral,informal
+899,"If the agreement meets with your approval, please execute it and return it to me via fax no.",neutral,formal
+900,"If the agreement meets with your approval, please have an authorizied officer of the company execute it and return the signed document to me at the fax number below.",neutral,formal
+901,"If the amendment meets with your approval, please have two copies executed by an authorized officer of J. Aron and return them to me for signature by Enron.",neutral,formal
+902,"If the enclosed meets with your approval, please execute the agreement and return it to me via fax no.",neutral,formal
+903,"If the enclosed meets with your approval, please have an authorized officer execute two copies and return them to me for execution by Enron.",neutral,formal
+904,"If the enclosed meets with your approval, please sign the attached and return it to me via fax no.",neutral,formal
+905,"If you don't hear from me by Wednesday, it's OK to post it.",neutral,informal
+906,"If you have any comments or questions you would like to discuss with me, do not hesitate to call me at (713) 853-3399 .",neutral,formal
+907,"If you have any comments or questions you would like to discuss, please do not hesitate to call me at (713) 853-3399.",neutral,formal
+908,"If you have any comments or questions, please call Mark Greenberg, Senior Counsel, at (713) 345-8897as I will be on vacation the rest of this week.",neutral,formal
+909,Is the 3:00 p.m. panel on Monday or Tuesday?,neutral,informal
+910,"Is there a conference call scheduled for today, and is Boyd available tomorrow?",neutral,formal
+911,Is your inquiry confidential or can I discuss it with others?,neutral,formal
+912,Joe - can you attend?,neutral,informal
+913,"Just following up to my call to you, if you could please provide any documentation to John in an envelope prior to the Monday meeting, I would appreciate it.",neutral,formal
+914,Let me know when you want to discuss comp issues.,neutral,informal
+915,"My assistant, Shirley Crenshaw, will schedule a meeting.",neutral,formal
+916,My recommendation would be to ask Maureen to attend sensitivity training and sexual harassment prevention class.,neutral,formal
+917,"Of course, this doesn't apply to any funds held in a jointly owned bank or trust account, right?",neutral,informal
+918,"Per our conversation last night, can you take a look at my list of country product approvals and let me know if there are any updates to the information.",neutral,formal
+919,Please join me in wishing Carolyn the very best in her new venture.,positive,formal
+920,"Rich, tell me this meeting is work related.",neutral,informal
+921,Set up a quick 15 minute meeting with Lon and Laura Scott with respect to the income statement.,neutral,formal
+922,"Since I've had to miss the first 2 meetings due to travel, is it possible for me to drop off my check and pick up any materials?",negative,informal
+923,"Sorry to have missed you at the investor presentation last week, if you or beau want any of the slides please let me know and we will forward them.",neutral,informal
+924,"We will have another drawing early next week, so please logon now to UnitedWay.enron.com.",neutral,informal
+925,When you arrive Monday can you let me know how long it will take you to have that sort working.,neutral,informal
+926,Would you like to set up this meeting or would you like me to?,neutral,formal
+927,You can send me an E-mail message and my secretary will contact to confirm the date and place of the meeting.,neutral,formal
+928,"You may depart on Sundays to Wednesdays, between January 6 and January 23, 2002.",neutral,formal
+929,You will meet with more than 150 senior power industry developers and advisors for the most in-depth look at NA power markets available to you.,positive,formal
+930,"Also, please strongly consider having the Board meeting on Tuesday afternoon in lieu of the golf outing.",neutral,formal
+931,Can we wait until Tuesday to send out?,neutral,informal
+932,Can you please print me 20 color copies of these reports just this week.,neutral,formal
+933,Can you send me a copy by Monday.,neutral,informal
+934,Could you call Bill and discuss?,neutral,informal
+935,Could you check with Steve and his wife for their availability on Sunday.,neutral,informal
+936,"Could you let me know if Enron would be interested in sponsoring a team next semester, and who my point of contact should be in the event that you would like to participate?",neutral,formal
+937,Could you please provide me with the exact address so that I can send this overnight to your attention.,neutral,formal
+938,Get me the roll off schedule for cnr over the next couple of years.,neutral,informal
+939,"If the agreement meets with your approval, please return a copy to me via fax no.",neutral,formal
+940,"If the enclosed meets with your approval, please have the agreement executed by an authorized officer of webMethods and return the copy to me for execution by Enron.",neutral,formal
+941,"If you are interested in being a team leader, please contact one of the following people immediately so that you may be included in the first important and informative training session taking place this week.",positive,formal
+942,"If you don't get it tomorrow, let me know.",neutral,informal
+943,"Jan, Can you let Christian know that I will not be in the office on Friday.",neutral,informal
+944,"Let me know when a convenient time would be for you, maybe Tuesday sometime?",neutral,informal
+945,"Note: If you have already registered for this conference, or would like to be taken off the email list, please reply to this email and type in UNSUBSCRIBE in the subject line.",neutral,formal
+946,Please advise if this works with your schedule.,neutral,formal
+947,Please call Ben Jacoby and see if we can push our meeting to 230.,neutral,informal
+948,Please call Cathy at 36898 and get on my calendar for a 1 hour update.,neutral,informal
+949,Please call John Keffer and re-schedule Thursday's lunch - two meeting have come up.,neutral,informal
+950,"Please call Lee Johnson and tell him that one of our development lawyers, Roger Balog, would like 2 tickets for Friday.",neutral,informal
+951,Please call Stan at 713 853 6177 and discuss with him.,neutral,informal
+952,Please call my assistant to set up an appointment for Early Tuesday.,neutral,formal
+953,"Please confirm your participation as soon as possible, preferably by the end of this week or the beginning of next week, as speaking positions will fill quickly.",neutral,formal
+954,Please contact Cathy Phillips via e-mail or call 713-853-6898 to schedule time with Mike.,neutral,informal
+955,"Please contact me at your earliest convenience by email or phone at the numbers below to discuss things if you think it would be a possibility or, if you would like more information on the context of the work and subject matter in AspenTech's core businesses.",neutral,formal
+956,Please continue to let me know about future meetings.,neutral,formal
+957,"Please email me a brief overview of what these documents are, how they fit into the overall picture, and the issues which need the most scrutiny.",neutral,formal
+958,Please email me with the specific performance language you want to add to meet their request.,neutral,informal
+959,"Please email the session descriptions by Tuesday, November 20.",neutral,formal
+960,Please explain how the loss of Buyer's market could be due to an event of Force Majeure and why the Buyer should not be required to find a new market during such period.,negative,formal
+961,Please handle at the Audit Committee meeting.,neutral,formal
+962,Please indicate below whether or not you plan to attend this meeting and through what medium.,neutral,formal
+963,Please keep this news to yourself until next week.,neutral,informal
+964,Please let me know by tomorrow morning if you have any comments.,neutral,formal
+965,Please let me know when you are ready to discuss.,neutral,formal
+966,Please let us know if you would like to attend and I will see that you receive a formal invitation.,neutral,formal
+967,"Please protect Thursday afternoon, August 10th for me.",neutral,informal
+968,Please remove me from your email list for further HTC events.,negative,formal
+969,Please review the attached document to see if it reflects the matters we discussed.,neutral,formal
+970,Please review to see if I have made all of the changes you discussed with them.,neutral,formal
+971,Please send to Jeff for final review and one more pass thru the business units on Monday.,neutral,informal
+972,"Please set up a conference call for tomorrow, 830 Houston time, and advise the following of the details:",neutral,formal
+973,"Please tell Mike that I'm on a conference call, but can step out if he wants to come up.",neutral,informal
+974,"Please, let me know if you want somebody from your organization at the meeting.",neutral,formal
+975,"Please, let me know the details of the dinners.",neutral,formal
+976,"Please, put it on my calendar.",neutral,informal
+977,"Please, put it on my schedule.",neutral,formal
+978,"Please, put on my calendar",neutral,informal
+979,"Please, put on my schedule.",neutral,informal
+980,"Please, register me for this conference.",positive,formal
+981,"Please, set up a meeting with me, Nelson and Vasant.",neutral,informal
+982,"Shirley, Please, put it on my calendar.",neutral,informal
+983,"Shirley, Please, put on my schedule.",neutral,informal
+984,Tana - can you fax me the final executed copies of the following agreements we did this week:,neutral,informal
+985,Why don't you try feeding her again at night?,neutral,informal
+986,Would you allow us to get you comments by 9:00AM tomorrow?,neutral,formal
+987,Could you call me on Monday with further information on our panel?,neutral,formal
+988,Please call me at your convenience to discuss.,neutral,formal
+989,Please call the list around 200 to see if people are available.,neutral,informal
+990,Please give us a call tomorrow to discuss briefly.,neutral,informal
+991,Please review the below and lets discuss if this really works.,neutral,informal
