@@ -44,7 +44,6 @@ The development of the **E-mail Tone Analyzer** is organized into three main pha
     - **Recall**: How many actual positives are correctly identified?
     - **F1 Score**: The harmonic mean of precision and recall.
     - **Confusion Matrix**: Evaluate true positives, false positives, true negatives, and false negatives.
-    - **ROC-AUC Score**: Assess the model’s ability to distinguish between classes.
   - Generate detailed classification reports and visualize results to identify areas for improvement.
 
 ## Key Features
