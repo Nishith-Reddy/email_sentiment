@@ -6,7 +6,8 @@ This project is a Natural Language Processing (NLP) application designed to anal
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emailanalyzer.streamlit.app)
 
-Link to presentation: https://drive.google.com/file/d/1R88iLop4k_Jzgga7ahSq3VLD1_J2E7W4/view?usp=share_link
+Link to presentation: https://drive.google.com/file/d/1R88iLop4k_Jzgga7ahSq3VLD1_J2E7W4/view?usp=share_link 
+
 Dataset link: https://www.cs.cmu.edu/~enron/
 
 ## Introduction
